@@ -18,8 +18,6 @@ We extend our sincere appreciation to Professor Dr. Rishi Astha for his invaluab
 3. [Introduction](#introduction)
 4. [Analytical Solutions](#analytical-solutions)
 5. [Results of Simulations](#results-of-simulations)
-6. [Conclusion](#conclusion)
-7. [References](#references)
 
 ## Problem Statement
 The project aims to explore rooted trees and their connections to graph theory, emphasizing practical applications in Nim and Tic-Tac-Toe games. The study delves into the structural characteristics of rooted trees and their intersection with graph theory, with a focus on strategic decision-making in game theory.
@@ -32,3 +30,9 @@ This section explores the application of rooted trees in solving the Nim and Tic
 
 ## Results of Simulations
 Results from simulations of Nim and Tic-Tac-Toe games are presented, showcasing the strategic insights gained from applying rooted trees. Visual representations of game trees and their outcomes are included.
+
+<img src="https://github.com/Dhaval-pathak/TikTacToe-and-Nim-using-MinMax-Algo/assets/93087161/fd0c4754-1af4-4aca-ac3b-cc4f38b2f91d" width="400" height="300" alt="Screenshot 1">
+<img src="https://github.com/Dhaval-pathak/TikTacToe-and-Nim-using-MinMax-Algo/assets/93087161/e3d74adb-2216-4bc0-bfa6-537d27889341" width="400" height="300" alt="Screenshot 2">
+
+
+
